@@ -1,5 +1,5 @@
 # Hi, I'm Sahil Sah
-Founder & CEO, LegacyShift AI — modernizing legacy code safely.
+Building LegacyShift AI — modernizing legacy code safely.
 ![Sahil Sah background](sahil-background-github-1920x640.png)
 - Building LegacyShift AI, from its original Python modernizer to a broader product for teams on old, business-critical code
 - Selected for SIH 2nd round (Smart India Hackathon, college level)
